@@ -1,9 +1,7 @@
 # Hi 👋, I'm Prerna Sharma  
 
-🎓 Computer Science Student | Aspiring Software Engineer  
-💻 Skilled in Java, Python, and C++  
-🌱 Currently learning Data Structures, Algorithms, and Web Development  
-🚀 Passionate about problem-solving and open-source contributions  
+🎓 Computer Science Student | Aspiring Software Engineer
+💻 Proficient in Java, Python, and C++ | Exploring Web Development & DSA
 
 ---
 
